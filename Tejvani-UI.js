@@ -7,4 +7,4 @@ const button = {
     }
 }
 
-export default button;
+window.Tejvani = button;
